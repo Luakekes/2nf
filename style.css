@@ -15,10 +15,10 @@ padding: 0;
 }
  .cabeçalho.imagem { width: 40%; 
 }
-.escola-imagem{
+.bob-imagem{
   width: 25%;
 }
-.escola{
+.bob{
   background-image: linear-gradient(#424E61, #4EBFE9);
   color: #003153;
   display: flex;
